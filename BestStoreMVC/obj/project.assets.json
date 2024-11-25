@@ -4039,24 +4039,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nattakitwin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nattakitwin\\OneDrive\\Desktop\\PVS12\\GodGled\\BestStoreMVC_kled_9\\BestStoreMVC\\BestStoreMVC.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\BestStoreMVC\\BestStoreMVC_7\\BestStoreMVC_kled_9\\BestStoreMVC\\BestStoreMVC.csproj",
       "projectName": "BestStoreMVC",
-      "projectPath": "C:\\Users\\Nattakitwin\\OneDrive\\Desktop\\PVS12\\GodGled\\BestStoreMVC_kled_9\\BestStoreMVC\\BestStoreMVC.csproj",
-      "packagesPath": "C:\\Users\\Nattakitwin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nattakitwin\\OneDrive\\Desktop\\PVS12\\GodGled\\BestStoreMVC_kled_9\\BestStoreMVC\\obj\\",
+      "projectPath": "C:\\Users\\pc\\source\\repos\\BestStoreMVC\\BestStoreMVC_7\\BestStoreMVC_kled_9\\BestStoreMVC\\BestStoreMVC.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc\\source\\repos\\BestStoreMVC\\BestStoreMVC_7\\BestStoreMVC_kled_9\\BestStoreMVC\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Nattakitwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

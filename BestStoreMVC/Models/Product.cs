@@ -17,7 +17,7 @@ namespace BestStoreMVC.Models
         public decimal Price { get; set; }
         public string Description { get; set; } = "";
         [MaxLength (100)]
-        public string ImageFileName { get; set; } = "";
+        public string ImageFile { get; set; } = "";
         public DateTime CreatedAt { get; set; }
     }
 }

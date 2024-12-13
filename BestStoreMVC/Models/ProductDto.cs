@@ -21,7 +21,7 @@ namespace BestStoreMVC.Models
         public string Description { get; set; } = "";
 
         
-        public IFormFile ImageFileName { get; set; } 
+        public IFormFile ImageFile { get; set; } 
 
 
 
